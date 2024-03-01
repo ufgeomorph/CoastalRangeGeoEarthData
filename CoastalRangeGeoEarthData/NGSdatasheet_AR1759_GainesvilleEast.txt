@@ -1,107 +1,164 @@
 PROGRAM = datasheet95, VERSION = 8.12.5.17
 Starting Datasheet Retrieval...
 1        National Geodetic Survey,   Retrieval Date = MARCH  1, 2024
- AR0466 ***********************************************************************
- AR0466  DESIGNATION -  N 146
- AR0466  PID         -  AR0466
- AR0466  STATE/COUNTY-  FL/ALACHUA
- AR0466  COUNTRY     -  US
- AR0466  USGS QUAD   -  GAINESVILLE EAST (2018)
- AR0466
- AR0466                         *CURRENT SURVEY CONTROL
- AR0466  ______________________________________________________________________
- AR0466* NAD 83(1986) POSITION- 29 39 09.     (N) 082 18 38.     (W)   SCALED
- AR0466* NAVD 88 ORTHO HEIGHT -    49.470 (meters)      162.30  (feet) ADJUSTED
- AR0466  ______________________________________________________________________
- AR0466  GEOID HEIGHT    -        -27.882 (meters)                     GEOID18
- AR0466  DYNAMIC HEIGHT  -         49.403 (meters)      162.08  (feet) COMP
- AR0466  MODELED GRAVITY -    979,286.4   (mgal)                       NAVD 88
- AR0466
- AR0466  VERT ORDER      -  FIRST     CLASS II
- AR0466
- AR0466.The horizontal coordinates were scaled from a map and have
- AR0466.an estimated accuracy of +/- 6 seconds.
- AR0466
- AR0466.The orthometric height was determined by differential leveling and
- AR0466.adjusted by the NATIONAL GEODETIC SURVEY
- AR0466.in June 1991.
- AR0466
- AR0466.Significant digits in the geoid height do not necessarily reflect accuracy.
- AR0466.GEOID18 height accuracy estimate available here.
- AR0466
- AR0466.Click photographs - Photos may exist for this station.
- AR0466
- AR0466.The dynamic height is computed by dividing the NAVD 88
- AR0466.geopotential number by the normal gravity value computed on the
- AR0466.Geodetic Reference System of 1980 (GRS 80) ellipsoid at 45
- AR0466.degrees latitude (g = 980.6199 gals.).
- AR0466
- AR0466.The modeled gravity was interpolated from observed gravity values.
- AR0466
- AR0466;                    North         East    Units  Estimated Accuracy
- AR0466;SPC FL N     -    74,360.      811,970.      MT  (+/- 180 meters Scaled)
- AR0466
- AR0466_U.S. NATIONAL GRID SPATIAL ADDRESS: 17RLN731809(NAD 83)
- AR0466
- AR0466                          SUPERSEDED SURVEY CONTROL
- AR0466
- AR0466  NGVD 29 (??/??/92)   49.725  (m)          163.14   (f) SUPERSEDED  1 2
- AR0466  NGVD 29 (09/01/92)   49.725  (m)          163.14   (f) ADJUSTED    1 2
- AR0466
- AR0466.Superseded values are not recommended for survey control.
- AR0466
- AR0466.NGS no longer adjusts projects to the NAD 27 or NGVD 29 datums.
- AR0466.See file dsdata.pdf to determine how the superseded data were derived.
- AR0466
- AR0466_MARKER: DB = BENCH MARK DISK
- AR0466_SETTING: 36 = SET IN A MASSIVE STRUCTURE
- AR0466_SP_SET: BUILDING
- AR0466_STAMPING: N 146 1954
- AR0466_STABILITY: B = PROBABLY HOLD POSITION/ELEVATION WELL
- AR0466
- AR0466  HISTORY     - Date     Condition        Report By
- AR0466  HISTORY     - 1954     MONUMENTED       CGS
- AR0466  HISTORY     - 1969     GOOD             CGS
- AR0466  HISTORY     - 1978     GOOD             NGS
- AR0466  HISTORY     - 1982     GOOD             USPSQD
- AR0466  HISTORY     - 20021103 MARK NOT FOUND   FLDEP
- AR0466
- AR0466                          STATION DESCRIPTION
- AR0466
- AR0466'DESCRIBED BY COAST AND GEODETIC SURVEY 1954
- AR0466'AT GAINESVILLE.
- AR0466'AT GAINESVILLE, AT THE SEABOARD AIR LINE RAILROAD STATION,
- AR0466'73 YARDS SOUTHWEST OF MILE POST 703, ABOUT 90 YARDS NORTHEAST
- AR0466'OF CROSSING OF UNIVERSITY AVENUE (STATE HIGHWAYS 20 AND 26,
- AR0466'SET VERTICALLY IN THE NORTHWEST FACE OF RAILROAD STATION BUILDING,
- AR0466'39 FEET SOUTHEAST OF SOUTHEAST RAIL OF MAIN TRACK, 4 FEET
- AR0466'SOUTHWEST OF BOTTOM STEP OF CONCRETE LOADING PLATFORM OF FREIGHT
- AR0466'STATION, 55 FEET NORTHEAST OF WEST CORNER OF STATION, AND
- AR0466'ABOUT 2 FEET ABOVE LEVEL OF CONCRETE WALK.  NOTE-- THE SEABOARD
- AR0466'AIR LINE RAILROAD STATION IS NOW USED AS THE RAILWAY EXPRESS
- AR0466'AGENCY.
- AR0466
- AR0466                          STATION RECOVERY (1969)
- AR0466
- AR0466'RECOVERY NOTE BY COAST AND GEODETIC SURVEY 1969
- AR0466'RECOVERED IN GOOD CONDITION.
- AR0466
- AR0466                          STATION RECOVERY (1978)
- AR0466
- AR0466'RECOVERY NOTE BY NATIONAL GEODETIC SURVEY 1978
- AR0466'RECOVERED IN GOOD CONDITION.
- AR0466
- AR0466                          STATION RECOVERY (1982)
- AR0466
- AR0466'RECOVERY NOTE BY US POWER SQUADRON 1982
- AR0466'RECOVERED IN GOOD CONDITION.
- AR0466
- AR0466                          STATION RECOVERY (2002)
- AR0466
- AR0466'RECOVERY NOTE BY FL DEPT OF ENV PRO 2002 (BPJ)
- AR0466'MARK NOT FOUND, DUE TO THE TRAIN STATION AND TRACKS NO LONGER EXIST AT
- AR0466'THIS LOCATION.
- AR0466'
+ AR1759 ***********************************************************************
+ AR1759  DESIGNATION -  A 097
+ AR1759  PID         -  AR1759
+ AR1759  STATE/COUNTY-  FL/ALACHUA
+ AR1759  COUNTRY     -  US
+ AR1759  USGS QUAD   -  GAINESVILLE EAST (2018)
+ AR1759
+ AR1759                         *CURRENT SURVEY CONTROL
+ AR1759  ______________________________________________________________________
+ AR1759* NAD 83(2011) POSITION- 29 39 34.48777(N) 082 18 22.37740(W)   ADJUSTED
+ AR1759* NAD 83(2011) ELLIP HT-    24.004 (meters)        (06/27/12)   ADJUSTED
+ AR1759* NAD 83(2011) EPOCH   -  2010.00
+ AR1759* NAVD 88 ORTHO HEIGHT -    51.899 (meters)      170.27  (feet) ADJUSTED
+ AR1759  ______________________________________________________________________
+ AR1759  GEOID HEIGHT    -        -27.883 (meters)                     GEOID18
+ AR1759  NAD 83(2011) X  -    742,631.434 (meters)                     COMP
+ AR1759  NAD 83(2011) Y  - -5,497,111.992 (meters)                     COMP
+ AR1759  NAD 83(2011) Z  -  3,137,649.922 (meters)                     COMP
+ AR1759  LAPLACE CORR    -         -0.16  (seconds)                    DEFLEC18
+ AR1759  DYNAMIC HEIGHT  -         51.829 (meters)      170.04  (feet) COMP
+ AR1759  MODELED GRAVITY -    979,287.3   (mgal)                       NAVD 88
+ AR1759
+ AR1759  VERT ORDER      -  FIRST     CLASS II
+ AR1759
+ AR1759  Network accuracy estimates per FGDC Geospatial Positioning Accuracy
+ AR1759  Standards:
+ AR1759         FGDC (95% conf, cm)     Standard deviation (cm)     CorrNE
+ AR1759            Horiz  Ellip           SD_N   SD_E   SD_h      (unitless)
+ AR1759  -------------------------------------------------------------------
+ AR1759  NETWORK    1.79   2.57           0.68   0.73   1.31     -0.47790148
+ AR1759  -------------------------------------------------------------------
+ AR1759  Click here for local accuracies and other accuracy information.
+ AR1759
+ AR1759.The horizontal coordinates were established by GPS observations
+ AR1759.and adjusted by the National Geodetic Survey in June 2012.
+ AR1759
+ AR1759.NAD 83(2011) refers to NAD 83 coordinates where the reference frame has 
+ AR1759.been affixed to the stable North American tectonic plate. See 
+ AR1759.NA2011 for more information. 
+ AR1759
+ AR1759.The horizontal coordinates are valid at the epoch date displayed above
+ AR1759.which is a decimal equivalence of Year/Month/Day.
+ AR1759
+ AR1759.The orthometric height was determined by differential leveling and
+ AR1759.adjusted by the NATIONAL GEODETIC SURVEY
+ AR1759.in August 2010.
+ AR1759
+ AR1759.No vertical observational check was made to the station.
+ AR1759
+ AR1759.Significant digits in the geoid height do not necessarily reflect accuracy.
+ AR1759.GEOID18 height accuracy estimate available here.
+ AR1759
+ AR1759.Click photographs - Photos may exist for this station.
+ AR1759
+ AR1759.The X, Y, and Z were computed from the position and the ellipsoidal ht.
+ AR1759
+ AR1759.The Laplace correction was computed from DEFLEC18 derived deflections.
+ AR1759
+ AR1759.The ellipsoidal height was determined by GPS observations
+ AR1759.and is referenced to NAD 83.
+ AR1759
+ AR1759.The dynamic height is computed by dividing the NAVD 88
+ AR1759.geopotential number by the normal gravity value computed on the
+ AR1759.Geodetic Reference System of 1980 (GRS 80) ellipsoid at 45
+ AR1759.degrees latitude (g = 980.6199 gals.).
+ AR1759
+ AR1759.The modeled gravity was interpolated from observed gravity values.
+ AR1759
+ AR1759. The following values were computed from the NAD 83(2011) position.
+ AR1759
+ AR1759;                    North         East     Units Scale Factor Converg.
+ AR1759;SPC FL N     -    75,156.236   812,372.987   MT  0.99998742   +1 06 08.8
+ AR1759;SPC FL N     -   246,575.08  2,665,260.37   sFT  0.99998742   +1 06 08.8
+ AR1759;UTM  17      - 3,281,778.171   373,585.111   MT  0.99979718   -0 38 47.3
+ AR1759
+ AR1759!             -  Elev Factor  x  Scale Factor =   Combined Factor
+ AR1759!SPC FL N     -   0.99999623  x   0.99998742  =   0.99998365
+ AR1759!UTM  17      -   0.99999623  x   0.99979718  =   0.99979341
+ AR1759
+ AR1759_U.S. NATIONAL GRID SPATIAL ADDRESS: 17RLN7358581778(NAD 83)
+ AR1759
+ AR1759                          SUPERSEDED SURVEY CONTROL
+ AR1759
+ AR1759  NAD 83(2007)-  29 39 34.48771(N)    082 18 22.37808(W) AD(2002.00) 0
+ AR1759  ELLIP H (02/10/07)   24.031  (m)                       GP(2002.00)    
+ AR1759  NAD 83(1999)-  29 39 34.48805(N)    082 18 22.37827(W) AD(       ) 2
+ AR1759  ELLIP H (06/12/02)   24.015  (m)                       GP(       ) 4 1
+ AR1759  NAD 83(1990)-  29 39 34.48675(N)    082 18 22.37805(W) AD(       ) 2
+ AR1759  ELLIP H (05/01/91)   24.045  (m)                       GP(       ) 4 1
+ AR1759  NAD 83(1986)-  29 39 34.49660(N)    082 18 22.38399(W) AD(       ) 2
+ AR1759  NGVD 29 (11/17/89)   52.3    (m)  RAPSU86  model used  GPS OBS        
+ AR1759
+ AR1759.Superseded values are not recommended for survey control.
+ AR1759
+ AR1759.NGS no longer adjusts projects to the NAD 27 or NGVD 29 datums.
+ AR1759.See file dsdata.pdf to determine how the superseded data were derived.
+ AR1759
+ AR1759_MARKER: DH = HORIZONTAL CONTROL DISK
+ AR1759_SETTING: 50 = ALUMINUM ALLOY ROD W/O SLEEVE (10 FT.+)
+ AR1759_STAMPING: A097
+ AR1759_MARK LOGO: FL-001
+ AR1759_MAGNETIC: B = BAR MAGNET IMBEDDED IN MONUMENT
+ AR1759_STABILITY: B = PROBABLY HOLD POSITION/ELEVATION WELL
+ AR1759_SATELLITE: THE SITE LOCATION WAS REPORTED AS SUITABLE FOR
+ AR1759+SATELLITE: SATELLITE OBSERVATIONS - January 15, 2011
+ AR1759_ROD/PIPE-DEPTH: 8.2 meters
+ AR1759
+ AR1759  HISTORY     - Date     Condition        Report By
+ AR1759  HISTORY     - 1988     MONUMENTED       PMC
+ AR1759  HISTORY     - 20070301 GOOD             GPI
+ AR1759  HISTORY     - 20090710 GOOD             FLDEP
+ AR1759  HISTORY     - 20110115 GOOD             JCLS
+ AR1759
+ AR1759                          STATION DESCRIPTION
+ AR1759
+ AR1759'DESCRIBED BY PERRY C MCGRIFF COMPANY 1988 (CG)
+ AR1759'THE STATION IS LOCATED ABOUT 3.2 KM (2.0 MI) NORTHEAST OF GAINESVILLE.
+ AR1759'OWNERSHIP--WALDO RD R/W (SR 24)
+ AR1759'
+ AR1759'TO REACH THE STATION FROM THE SOUTH NOSE OF THE CONCRETE MEDIAN NORTH
+ AR1759'OF THE INTERSECTION OF WALDO RD AND NE 8TH AVE, GO NORTHEAST FOR 23.9
+ AR1759'METERS (78.5 FT) ON WALDO RD TO THE STATION ON THE EAST SIDE OF WALDO
+ AR1759'RD.
+ AR1759'
+ AR1759'THE STATION IS A STANDARD AC GIS DISK STAMPED---STATION A097---, SET
+ AR1759'INTO THE GROUND 27 FT  TO REFUSAL (6 IN PVC SLEEVE) 5.00 METERS
+ AR1759'(16.39 FT) SOUTHEAST FROM A NAIL AND CAP (NO 3765) SET IN E/P OF WALDO
+ AR1759'RD, 11.90 METERS (39.05 FT) SOUTHWEST FROM A NAIL AND CAP (NO 3765)
+ AR1759'SET IN POWER POLE, 1.2 METERS (4.00 FT) SOUTH OF A CARSONITE POST SET,
+ AR1759'42.93 METERS (140.89 FT) NORTHWEST FROM A NAIL AND CAP (NO 3765) SET
+ AR1759'IN WOOD POWER POLE NO. 41.
+ AR1759'
+ AR1759'AZIMUTH MARK NO. 1 IS A STANDARD AC GIS DISK STAMPED
+ AR1759'---AZIMUTH A098---, SET INTO THE GROUND 30 FT TO REFUSAL  (6 IN PVC
+ AR1759'SLEEVE) 11.17 METERS (36.66 FT) NORTHEAST FROM A NAIL AND CAP
+ AR1759'(NO 3765) SET IN EAST EDGE OF PAVEMENT OF WALDO RD, 11.02 METERS
+ AR1759'(36.15 FT) SOUTH FROM A NAIL AND CAP (NO 3765) SET IN EAST EDGE OF
+ AR1759'PAVEMENT OF WALDO RD, 4.64 METERS (15.21 FT) WEST FROM A NAIL AND CAP
+ AR1759'(NO 3765) SET IN POWER POLE, 3.6 METERS (11.8 FT) NORTHWEST OF A
+ AR1759'CARSONITE POST SET.
+ AR1759'
+ AR1759'TO REACH THE AZIMUTH FROM THE STATION, GO NORTHEAST FOR 0.8 KM
+ AR1759'(0.5 MI) ON WALDO RD TO THE AZIMUTH MARK ON THE EAST SIDE OF ROAD.
+ AR1759
+ AR1759                          STATION RECOVERY (2007)
+ AR1759
+ AR1759'RECOVERY NOTE BY GREENMAN PEDERSEN INCORPORATED 2007 (KAW)
+ AR1759'RECOVERED IN GOOD CONDITION.
+ AR1759
+ AR1759                          STATION RECOVERY (2009)
+ AR1759
+ AR1759'RECOVERY NOTE BY FL DEPT OF ENV PRO 2009 (BPJ)
+ AR1759'RECOVERED AS DESCRIBED.
+ AR1759
+ AR1759                          STATION RECOVERY (2011)
+ AR1759
+ AR1759'RECOVERY NOTE BY JOHN CHANCE LAND SURVEYS INC 2011
+ AR1759'RECOVERED IN GOOD CONDITION.
 
 
 
