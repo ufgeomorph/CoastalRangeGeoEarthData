@@ -1,0 +1,110 @@
+PROGRAM = datasheet95, VERSION = 8.12.5.17
+Starting Datasheet Retrieval...
+1        National Geodetic Survey,   Retrieval Date = MARCH  1, 2024
+ AR0466 ***********************************************************************
+ AR0466  DESIGNATION -  N 146
+ AR0466  PID         -  AR0466
+ AR0466  STATE/COUNTY-  FL/ALACHUA
+ AR0466  COUNTRY     -  US
+ AR0466  USGS QUAD   -  GAINESVILLE EAST (2018)
+ AR0466
+ AR0466                         *CURRENT SURVEY CONTROL
+ AR0466  ______________________________________________________________________
+ AR0466* NAD 83(1986) POSITION- 29 39 09.     (N) 082 18 38.     (W)   SCALED
+ AR0466* NAVD 88 ORTHO HEIGHT -    49.470 (meters)      162.30  (feet) ADJUSTED
+ AR0466  ______________________________________________________________________
+ AR0466  GEOID HEIGHT    -        -27.882 (meters)                     GEOID18
+ AR0466  DYNAMIC HEIGHT  -         49.403 (meters)      162.08  (feet) COMP
+ AR0466  MODELED GRAVITY -    979,286.4   (mgal)                       NAVD 88
+ AR0466
+ AR0466  VERT ORDER      -  FIRST     CLASS II
+ AR0466
+ AR0466.The horizontal coordinates were scaled from a map and have
+ AR0466.an estimated accuracy of +/- 6 seconds.
+ AR0466
+ AR0466.The orthometric height was determined by differential leveling and
+ AR0466.adjusted by the NATIONAL GEODETIC SURVEY
+ AR0466.in June 1991.
+ AR0466
+ AR0466.Significant digits in the geoid height do not necessarily reflect accuracy.
+ AR0466.GEOID18 height accuracy estimate available here.
+ AR0466
+ AR0466.Click photographs - Photos may exist for this station.
+ AR0466
+ AR0466.The dynamic height is computed by dividing the NAVD 88
+ AR0466.geopotential number by the normal gravity value computed on the
+ AR0466.Geodetic Reference System of 1980 (GRS 80) ellipsoid at 45
+ AR0466.degrees latitude (g = 980.6199 gals.).
+ AR0466
+ AR0466.The modeled gravity was interpolated from observed gravity values.
+ AR0466
+ AR0466;                    North         East    Units  Estimated Accuracy
+ AR0466;SPC FL N     -    74,360.      811,970.      MT  (+/- 180 meters Scaled)
+ AR0466
+ AR0466_U.S. NATIONAL GRID SPATIAL ADDRESS: 17RLN731809(NAD 83)
+ AR0466
+ AR0466                          SUPERSEDED SURVEY CONTROL
+ AR0466
+ AR0466  NGVD 29 (??/??/92)   49.725  (m)          163.14   (f) SUPERSEDED  1 2
+ AR0466  NGVD 29 (09/01/92)   49.725  (m)          163.14   (f) ADJUSTED    1 2
+ AR0466
+ AR0466.Superseded values are not recommended for survey control.
+ AR0466
+ AR0466.NGS no longer adjusts projects to the NAD 27 or NGVD 29 datums.
+ AR0466.See file dsdata.pdf to determine how the superseded data were derived.
+ AR0466
+ AR0466_MARKER: DB = BENCH MARK DISK
+ AR0466_SETTING: 36 = SET IN A MASSIVE STRUCTURE
+ AR0466_SP_SET: BUILDING
+ AR0466_STAMPING: N 146 1954
+ AR0466_STABILITY: B = PROBABLY HOLD POSITION/ELEVATION WELL
+ AR0466
+ AR0466  HISTORY     - Date     Condition        Report By
+ AR0466  HISTORY     - 1954     MONUMENTED       CGS
+ AR0466  HISTORY     - 1969     GOOD             CGS
+ AR0466  HISTORY     - 1978     GOOD             NGS
+ AR0466  HISTORY     - 1982     GOOD             USPSQD
+ AR0466  HISTORY     - 20021103 MARK NOT FOUND   FLDEP
+ AR0466
+ AR0466                          STATION DESCRIPTION
+ AR0466
+ AR0466'DESCRIBED BY COAST AND GEODETIC SURVEY 1954
+ AR0466'AT GAINESVILLE.
+ AR0466'AT GAINESVILLE, AT THE SEABOARD AIR LINE RAILROAD STATION,
+ AR0466'73 YARDS SOUTHWEST OF MILE POST 703, ABOUT 90 YARDS NORTHEAST
+ AR0466'OF CROSSING OF UNIVERSITY AVENUE (STATE HIGHWAYS 20 AND 26,
+ AR0466'SET VERTICALLY IN THE NORTHWEST FACE OF RAILROAD STATION BUILDING,
+ AR0466'39 FEET SOUTHEAST OF SOUTHEAST RAIL OF MAIN TRACK, 4 FEET
+ AR0466'SOUTHWEST OF BOTTOM STEP OF CONCRETE LOADING PLATFORM OF FREIGHT
+ AR0466'STATION, 55 FEET NORTHEAST OF WEST CORNER OF STATION, AND
+ AR0466'ABOUT 2 FEET ABOVE LEVEL OF CONCRETE WALK.  NOTE-- THE SEABOARD
+ AR0466'AIR LINE RAILROAD STATION IS NOW USED AS THE RAILWAY EXPRESS
+ AR0466'AGENCY.
+ AR0466
+ AR0466                          STATION RECOVERY (1969)
+ AR0466
+ AR0466'RECOVERY NOTE BY COAST AND GEODETIC SURVEY 1969
+ AR0466'RECOVERED IN GOOD CONDITION.
+ AR0466
+ AR0466                          STATION RECOVERY (1978)
+ AR0466
+ AR0466'RECOVERY NOTE BY NATIONAL GEODETIC SURVEY 1978
+ AR0466'RECOVERED IN GOOD CONDITION.
+ AR0466
+ AR0466                          STATION RECOVERY (1982)
+ AR0466
+ AR0466'RECOVERY NOTE BY US POWER SQUADRON 1982
+ AR0466'RECOVERED IN GOOD CONDITION.
+ AR0466
+ AR0466                          STATION RECOVERY (2002)
+ AR0466
+ AR0466'RECOVERY NOTE BY FL DEPT OF ENV PRO 2002 (BPJ)
+ AR0466'MARK NOT FOUND, DUE TO THE TRAIN STATION AND TRACKS NO LONGER EXIST AT
+ AR0466'THIS LOCATION.
+ AR0466'
+
+
+
+
+ *** retrieval complete.
+ Elapsed Time = 00:00:04
