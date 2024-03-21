@@ -3,14 +3,12 @@ close all,clearvars
 % Data obtained from:
 % https://floridadep.gov/rcp/beach-survey-services/content/historic-shoreline-database
 
-set_pna_colors;
+%set_pna_colors;
 
 crmNumStr='57';
-dname='/Users/pna/Dropbox (UFL)/Data/Data06_BchPrfls/FlaDEP_ProfileSurveyData/UnZipped_ByCounty/STJPZ/COUNTYWIDE (R001-R209)/';
+dname='UnZipped_ByCounty/STJPZ/COUNTYWIDE (R001-R209)/';
 
-fns={'SJ7209_CCC_1.PRF','SJ8405_CON_1.PRF','SJ9307_CON_1.PRF','SJ9902_CON_1.PRF',...
-    'SJ0306_CON_1.PRF','SJ0709_CON_1.PRF','SJ1105_CON_1.PRF','SJ1709_COE_1_mod.LID',...
-    'SJ1911_CON_1.PRF'};
+fns=PRF_Files;
 clrs={'brown','brick','red','magenta','purple','blue','cyan','hunter','green','spring'};
 for ii=1:length(fns)
     fname=fns{ii};

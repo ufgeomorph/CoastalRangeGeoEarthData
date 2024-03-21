@@ -1,0 +1,34 @@
+All data files are ascii text (.txt) files.
+
+Updates will be going into the prof839088 directory only.
+
+
+
+Profile data files are generally named as follow with PRF file extension:
+
+	CNYYMM_ABC_#.PRF    = county name/year/month/_/data source or type/_/number 1 for quality checked or 0 for data not reviewed.PRF extension
+
+
+FDEP data type:
+
+          .ccc = control line survey
+          .con = condition survey, usually not as many ranges
+          .spe = special purpose survey
+          .pst = post-storm survey
+          
+
+Outside Data Source:
+           ARC = ARC Surveying and Mapping, Inc.
+           COE = US Army Corps of Engineers
+           CPE = Coastal Planning and Engineer
+           DEG = Degrove Surveyors
+           HIS = Hydrographic Information Services.
+           LDB = LD Bradley Surveyors
+           MAE = Morgan and Eklund.
+           OLS = Olsen and Associates.
+           SDI = Sea Diversified Inc.
+           WIS = Wisdom, Donald
+           
+           
+
+8 Code file has an extension .COD is file of notes regarding specific profile data

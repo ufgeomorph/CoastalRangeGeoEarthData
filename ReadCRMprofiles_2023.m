@@ -21,7 +21,7 @@ while ~feof(fid)
         D.RMnorthingSPft=L(20:30); D.RMeastingSPft=L(32:42);
         D.RMazimuth=L(44:49); D.RMelev=L(50:54);
         [D.RM_lon,D.RM_lat]=sp_proj('florida east','inverse',...
-            str2num(D.RMeastingSPft),str2num(D.RMnorthingSPft),'sf');
+            %str2num(D.RMeastingSPft),str2num(D.RMnorthingSPft),'sf');
         [D.RM_utmE,D.RM_utmN,D.RM_utmZone]=deg2utm(D.RM_lat,D.RM_lon);
         L=fgetl(fid);
         D.SurvDateOnshore=L(9:15); D.SurvDateOffshore=L(17:23);
